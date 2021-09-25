@@ -11,7 +11,7 @@ Group Number - G34
 
 ## How to run?
 
-    • Create a python virtual environments.
+    • Create a python virtual environment.
     • It is advised that the libraries mentioned in the requirements.txt should be installed before running this code. “pip install -r requirements.txt”.
     • Change the address on Line 16 of main_1.py according to the address of flask server for your system.
     • After installing all the libraries, run the main_1.py
