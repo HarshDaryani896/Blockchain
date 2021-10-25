@@ -1,6 +1,7 @@
 # Dexter’s Consensus Algorithm
 
 Blockchain Programming Assignment 2
+Algorithm to be implemented - Proof of Authority (PoA)
 
 ## Group Details
 
